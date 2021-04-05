@@ -9,7 +9,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moulikchaturvedi&theme=cobalt&layout=compact" /> 
 
 ## :house_with_garden: Visit me at:
-[__*MY PORTFOLIO WEBSITE!*__](https://moulik-portfolio.web.app)
+[__*MY PORTFOLIO WEBSITE!*__](https://moulikchaturvedi.me)
 
 ## :book: Read me at:
 [__*MY BLOG!*__](https://moulik793685946.wordpress.com/)
