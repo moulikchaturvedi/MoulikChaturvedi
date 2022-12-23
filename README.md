@@ -12,7 +12,7 @@
 [__*MY PORTFOLIO WEBSITE!*__](http://moulikchaturvedi.me)
 
 ## :book: Read me at:
-[__*MY BLOG!*__]([https://moulik793685946.wordpress.com/](https://medium.com/@moulik.chaturvedi26))
+[__*MY BLOG!*__]([https://moulik793685946.wordpress.com/](https://medium.com/@moulik.chaturvedi26)])
 
 ## :rocket: Reach me at:
 1. [__*E-Mail*__](mailto:moulik.chaturvedi26@gmail.com)
